@@ -37,3 +37,17 @@ button:hover{
     font-size: 5rem;
     margin: 30px 0;
 }
+
+.scoreDisplay{
+    font-size: 2rem;
+}
+
+.greentext, #playerScoreDisplay{
+    color:rgb(36, 232, 36);
+
+}
+
+.redtext, #computerScoreDisplay{
+    color:red
+
+}
